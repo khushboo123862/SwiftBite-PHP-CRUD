@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Double Beef Burger",
+    "price": "$9.65",
+    "image": "noo.png"
+  },
+  {
+    "id": 2,
+    "name": "veggie Pizz",
+    "price": "$10.99",
+    "image": "pp.png"
+  },
+  {
+    "id": 3,
+    "name": "Fried Chicken",
+    "price": "$10.65",
+    "image": "roll.png"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "price": "$8.55",
+    "image": "noo.png"
+  },
+  {
+    "id": 5,
+    "name": "Double Beef Burger",
+    "price": "$12",
+    "image": "noo.png"
+  },
+  {
+    "id": 6,
+    "name": "Double Beef Burger",
+    "price": "$15.2",
+    "image": "noo.png"
+  },
+  {
+    "id": 7,
+    "name": "Double Beef Burger",
+    "price": "$9.65",
+    "image": "noo.png"
+  },
+  {
+    "id": 8,
+    "name": "Double Beef Burger",
+    "price": "$11.65",
+    "image": "noo.png"
+  }
+]

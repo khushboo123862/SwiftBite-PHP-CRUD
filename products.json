@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Noodle",
+    "price": "$9.65",
+    "image": "img/noo.png"
+  },
+  {
+    "id": 2,
+    "name": "Chicken burger",
+    "price": "$10.99",
+    "image": "img/burger(1).png"
+  },
+  {
+    "id": 3,
+    "name": "Spring roll",
+    "price": "$10.65",
+    "image": "img/roll.png"
+  },
+  {
+    "id": 4,
+    "name": "Sushi",
+    "price": "$8.55",
+    "image": "img/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Frid chicken",
+    "price": "$12",
+    "image": "img/chi.png"
+  },
+  {
+    "id": 6,
+    "name": "Loaded chicken roll",
+    "price": "$15.2",
+    "image": "img/5.png"
+  },
+  {
+    "id": 7,
+    "name": "BBQ",
+    "price": "$9.65",
+    "image": "img/6.png"
+  },
+  {
+    "id": 8,
+    "name": "Double grill chickrn",
+    "price": "$11.65",
+    "image": "img/7.png"
+  }
+]
